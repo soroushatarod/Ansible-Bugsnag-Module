@@ -1,8 +1,8 @@
 # Ansible-Bugsnag-Module
 
 Sample playbook.yml
-[code]
----
+
+```yaml
 - hosts: localhost
   tasks:
     - name: create BugsNag API
@@ -11,4 +11,4 @@ Sample playbook.yml
         builder_name: 'Jenkins'
         release_stage: 'production'
         app_version: '132135467'
-[/code]
+
