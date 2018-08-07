@@ -47,8 +47,7 @@ notes: check_mode is supported
 '''
 
 EXAMPLES = '''
-# Adds or modify the backend '212.1.1.1' to a
-# without source control
+# create a new build in Busnag
 - name: create BugsNag API
   bugsnag:
     api_key: '122'
