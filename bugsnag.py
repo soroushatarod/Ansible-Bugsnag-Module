@@ -34,7 +34,6 @@ options:
         description:
             - The release stage 
     builder_name:
-        default: 'none'
         description:
             - The name of the entity that triggered the build. Could be a user, system etc
     source_control_repository:
