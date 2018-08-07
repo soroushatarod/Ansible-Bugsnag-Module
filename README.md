@@ -8,7 +8,7 @@
 </ol>
 
 
-Sample playbook.yml
+Sample playbook.yml to use it.
 
 ```yaml
 - hosts: localhost
