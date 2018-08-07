@@ -1,9 +1,11 @@
 # Ansible-Bugsnag-Module
 
-1. How to import the module?
+<h2>How to import the module?</h2>
 
-a) Create a folder "library".
-b) Save bugsnag.py in it.
+<ol>
+<li>Create a folder "library"</li>
+<li>Save bugsnag.py in it</li>
+</ol>
 
 
 Sample playbook.yml
